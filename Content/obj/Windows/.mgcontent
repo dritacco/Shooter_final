@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/bgLayer1.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/bgLayer2.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/boss.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/endMenu.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/explosion.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/healthBar.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/laser.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/mainbackground.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/mainMenu.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/mine.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/mineAnimation.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/player.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Graphics/shipAnimation.png</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sounds/explosion.wav</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sounds/gameMusic.mp3</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sounds/laserFire.wav</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sounds/menuMusic.mp3</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/fuente.spritefont</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sound/BossExplosion.wav</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sound/Disparo.wav</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sound/Explosion.wav</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sound/GameOver.mp3</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sound/PerderVida.mp3</File>
+    <File>C:/Users/dritacco/workspace/Shooter/Shooter/Content/Sound/Winning-sound.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

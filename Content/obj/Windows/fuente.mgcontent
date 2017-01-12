@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dritacco/workspace/Shooter/Shooter/Content/fuente.spritefont</SourceFile>
+  <SourceTime>2016-11-15T21:25:19.7827849-03:00</SourceTime>
+  <DestFile>C:/Users/dritacco/workspace/Shooter/Shooter/Content/bin/Windows/fuente.xnb</DestFile>
+  <DestTime>2016-11-16T19:13:42.3806173-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T03:36:08-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T03:36:08-03:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
